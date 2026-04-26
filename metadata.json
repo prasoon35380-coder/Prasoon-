@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Chatbot",
+  "description": "A clean, modern chatbot interface powered by Google Gemini AI with markdown support and smooth animations.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
